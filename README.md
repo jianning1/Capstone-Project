@@ -1,5 +1,5 @@
 # Capstone-Project
-Capstone Project on sentiment analysis
+Natural Language Processing: Text and Sentiment classification
 
 This project aims to analyze the application of LSTM and Bi-LSTM on a small dataset financial news articles.
 
