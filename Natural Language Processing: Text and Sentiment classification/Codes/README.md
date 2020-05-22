@@ -1,3 +1,3 @@
-Exploratory Analysis are performed on raw dataset "Full-Economic-News-DFE.csv"
+Exploratory Analysis are performed on raw dataset "Full-Economic-News-DFE.csv".
 
-Text Classification and Sentiment Analytic are based on pre-processed dataset ""
+Text classification and sentiment Analytic are based on pre-processed dataset "cleaned_data.csv", which is generated in exploratory analysis.
