@@ -1,1 +1,3 @@
 The dataset, available on https://data.world/crowdflower/economic-news-article-tone, was initially published by CrowFlower on Dec 2015. This dataset includes 8000 news articles. Each article was judged on whether related to US economy, if relevant, then the positivity was evaluated using a 9-point scale.
+
+[10] CrowdFlower. Economic news article tone, https://data.world/crowdflower/economic-news-article-tone, dec 2015.
